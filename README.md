@@ -1,0 +1,1 @@
+# guia-partico-estoque
